@@ -1,3 +1,9 @@
+<html>
+<head>
+<meta name="google-site-verification" content="vpnZZMkAK7Lv6js1xu1HDvgh-LL0LapwrMen5uk7doM" />
+</head>
+</html>
+
 # bitstring
 
 What: This class is a bitwise vector/container, that shares the same spirit
